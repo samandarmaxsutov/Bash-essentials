@@ -1,0 +1,28 @@
+Tasks
+
+Goals:
+
+- learn to use terminal
+
+Tasks:
+
+- open a terminal of your choosing
+
+- verify which bash version you are using by running bash --version command
+
+- run some commands (e.g. echo "Hello world")
+
+Self-check:
+
+- bash --version command returns similar output:
+
+GNU bash, version 3.2.57(1)-release (x86_64-apple-darwin20)
+
+Copyright (C) 2007 Free Software Foundation, Inc.
+
+Helpful materials:
+
+    https://en.wikipedia.org/wiki/Bash_(Unix_shell)
+    https://devhints.io/bash
+
+
