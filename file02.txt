@@ -1,0 +1,38 @@
+Tasks
+
+Goals:
+
+- learn how to run simple commands
+
+Tasks:
+
+- open a terminal of your choosing
+
+- go to your user's home folder using cd command
+
+- create a folder named homework using mkdir command
+
+- create a file named file1 in homework folder using touch command or any text editor
+
+- copy file1 file to homework folder under file2 name using cp command
+
+- edit file2 using a text editor of your choosing, add echo command that will print hello world
+
+- make file2 file executable
+
+- execute file2 script
+
+Self-check:
+
+- ls ~/homework/ command returns:
+
+file1 file2
+
+- script execution returns:
+
+hello world
+
+Helpful materials:
+
+    https://devhints.io/bash
+
