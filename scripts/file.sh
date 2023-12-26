@@ -1,5 +1,5 @@
-echo "Enter file name"
+echo "Enter script file name"
 read filename
-touch $filename
-chmod +x $filename
+echo "#!/bin/bash">>"$filename.sh"
+chmod +x "$filename.sh"
 ls 
